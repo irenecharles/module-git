@@ -1,3 +1,6 @@
 Se connecter
 Email : ......
 Mot de passe : .........
+
+Mot de passe oublié cliquez ici
+[ Se connecter]
